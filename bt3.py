@@ -1,4 +1,4 @@
-#-*- coding: utf-8-*-
+#-*- coding: utf-8-*- 
 import random # el import random para que me elija numero al azar.
 import time # el import time para que tome un cierto tiempo de espera.
 import sys # el import sys para que pueda acceder a funciones y objetos que tenga.
